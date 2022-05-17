@@ -29,7 +29,7 @@ export default {
         const rankedTeam = ref(sb.makeRankedTeam(run, contest.teams, contest.problems, 20));
 
         const onClick = () => {
-            sb.updateRun(run, crun);
+            sb.updateRun(run, crun, rankedTeam.value, contest.problems);
             rankedTeam.value = sb.makeRankedTeam(run, contest.teams, contest.problems, 20);
         }
 
