@@ -1,0 +1,23 @@
+[
+    {
+        "id": 82,
+        "rank": "1등",
+        "icon": "gold",
+        "group": null,
+        "name": "junseo"
+    },
+    {
+        "id": 91,
+        "rank": "2등",
+        "icon": "silver",
+        "group": null,
+        "name": "nick832"
+    },
+    {
+        "id": 80,
+        "rank": "3등",
+        "icon": "bronze",
+        "group": null,
+        "name": "HY-Bee"
+    }
+]

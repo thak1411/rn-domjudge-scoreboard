@@ -1,0 +1,227 @@
+{
+    "title": "2022 월간알로하 1차 예비소집",
+    "systemName": "DOMjudge",
+    "systemVersion": "7.0.0",
+    "problems": [
+        {
+            "id": 71,
+            "title": "@3days_50times",
+            "name": "A",
+            "color": "red"
+        },
+        {
+            "id": 79,
+            "title": "득수 밥먹이기",
+            "name": "B",
+            "color": "green"
+        },
+        {
+            "id": 90,
+            "title": "카페인 중독",
+            "name": "C",
+            "color": "blue"
+        }
+    ],
+    "teams": [
+        {
+            "id": 78,
+            "name": "coffee21",
+            "group": null
+        },
+        {
+            "id": 79,
+            "name": "sooolved",
+            "group": null
+        },
+        {
+            "id": 80,
+            "name": "HY-Bee",
+            "group": null
+        },
+        {
+            "id": 81,
+            "name": "lwjmcn",
+            "group": null
+        },
+        {
+            "id": 82,
+            "name": "junseo",
+            "group": null
+        },
+        {
+            "id": 83,
+            "name": "OoO",
+            "group": null
+        },
+        {
+            "id": 84,
+            "name": "palking_totato",
+            "group": null
+        },
+        {
+            "id": 85,
+            "name": "PlzCheckServerLogIWasAllSolved",
+            "group": null
+        },
+        {
+            "id": 86,
+            "name": "matmanbolgyeyo",
+            "group": null
+        },
+        {
+            "id": 87,
+            "name": "abcdef",
+            "group": null
+        },
+        {
+            "id": 88,
+            "name": "alchon_yakmaealbab_gobbaegi",
+            "group": null
+        },
+        {
+            "id": 89,
+            "name": "itsmee",
+            "group": null
+        },
+        {
+            "id": 90,
+            "name": "Java_Try_Catch_Throw_Exception",
+            "group": null
+        },
+        {
+            "id": 91,
+            "name": "nick832",
+            "group": null
+        },
+        {
+            "id": 92,
+            "name": "Monkey_D_Luffy",
+            "group": null
+        },
+        {
+            "id": 93,
+            "name": "Ll_Ll",
+            "group": null
+        },
+        {
+            "id": 94,
+            "name": "Busan_YesKing",
+            "group": null
+        },
+        {
+            "id": 95,
+            "name": "_traditional_korean_paper_",
+            "group": null
+        },
+        {
+            "id": 96,
+            "name": "O__O",
+            "group": null
+        },
+        {
+            "id": 97,
+            "name": "Cat",
+            "group": null
+        },
+        {
+            "id": 98,
+            "name": "1",
+            "group": null
+        },
+        {
+            "id": 99,
+            "name": "So_sad",
+            "group": null
+        },
+        {
+            "id": 100,
+            "name": "IHateCPlusPlus",
+            "group": null
+        },
+        {
+            "id": 101,
+            "name": "Army",
+            "group": null
+        },
+        {
+            "id": 102,
+            "name": "nwxd0208",
+            "group": null
+        },
+        {
+            "id": 103,
+            "name": "lhslhslhs",
+            "group": null
+        },
+        {
+            "id": 104,
+            "name": "-_-",
+            "group": null
+        },
+        {
+            "id": 105,
+            "name": "KSG",
+            "group": null
+        },
+        {
+            "id": 106,
+            "name": "audrn_",
+            "group": null
+        },
+        {
+            "id": 107,
+            "name": "nolangi",
+            "group": null
+        },
+        {
+            "id": 108,
+            "name": "asdasdasd",
+            "group": null
+        },
+        {
+            "id": 109,
+            "name": "CSE_KING",
+            "group": null
+        },
+        {
+            "id": 110,
+            "name": "Wannabe_One",
+            "group": null
+        },
+        {
+            "id": 111,
+            "name": "LibraryOfRuina",
+            "group": null
+        },
+        {
+            "id": 112,
+            "name": "Memil_Soba",
+            "group": null
+        },
+        {
+            "id": 113,
+            "name": "garepaps",
+            "group": null
+        },
+        {
+            "id": 114,
+            "name": "CodeFighter",
+            "group": null
+        },
+        {
+            "id": 115,
+            "name": "Alohahahoho",
+            "group": null
+        },
+        {
+            "id": 116,
+            "name": "PRINGLESIU",
+            "group": null
+        },
+        {
+            "id": 117,
+            "name": "165_jing",
+            "group": null
+        }
+    ]
+}
