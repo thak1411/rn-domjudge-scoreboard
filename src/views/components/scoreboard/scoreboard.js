@@ -76,7 +76,6 @@ class RnScoreboard {
                 continue;
             }
             if (val.result == 'Yes') { // AC
-                console.log(val)
                 team[tidx].times[pidx] = val.submissionTime;
                 team[tidx].solves[pidx] = -team[tidx].solves[pidx] + 1;
                 team[tidx].score.solved += 1;

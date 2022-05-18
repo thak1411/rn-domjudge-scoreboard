@@ -10,8 +10,8 @@ table.rn-scoreboard
                 rntxt(:init_message="t('scoreboard.score')" :init_fontSize="16" :init_fontWeight="700")
             th(v-for="(problem, key) in problems" :key="key")
                 rntxt(:init_message="problem.name" :init_fontSize="16" :init_fontWeight="700")
-    tbody
-        tr(v-for="(team, key) in teams" :key="key" :class="team.selected ? 'rn-scoreboard-selected' : ''")
+    transition-group(name="flip-list" tag="tbody")
+        tr(v-for="(team, key) in teams" :key="team.name" :class="team.selected ? 'rn-scoreboard-selected' : ''")
             td.w40
                 rntxt(:init_message="team.rank" :init_fontSize="14")
             td.rn-name
@@ -147,5 +147,8 @@ export default {
 }
 .rn-scoreboard-selected {
     background-color: #fff9a0;
+}
+.flip-list-move {
+  transition: transform 2.22s ease-in-out;
 }
 </style>
